@@ -1,7 +1,7 @@
 Source of Nobeas home website
 ====================
 
-### Links: [nobeas.com](nobeas.com) / [nobeas.no](nobeas.no)
+### Links: [nobeas.com](http://nobeas.com) / [nobeas.no](http://nobeas.no)
 
 Site it built with [Jekyll](https://jekyllrb.com/) using the [Agency theme](https://github.com/y7kim/agency-jekyll-theme/).
 
